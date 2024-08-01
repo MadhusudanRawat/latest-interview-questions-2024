@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Do you want to crack your next interview round! then this question for you</h2>
+<h2 align="left">Hi 👋! Do you want to crack your next interview round! then this questions for you</h2>
 
 ###
 
